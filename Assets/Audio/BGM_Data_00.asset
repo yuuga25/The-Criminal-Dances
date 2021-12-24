@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d47052e774a9844b03c44171c8ad50, type: 3}
+  m_Name: BGM_Data_00
+  m_EditorClassIdentifier: 
+  sheet:
+  - bgmName: "\u3010\u521D\u97F3\u30DF\u30AF\u3011\u5B64\u72EC\u6BD2\u6BD2\u3010syudou\u3011"
+    bgmClip: {fileID: 8300000, guid: 52df27f8226aaac4595f5bc65a869c47, type: 3}
+  - bgmName: "DECO*27 - \u30B7\u30F3\u30C7\u30EC\u30E9 feat. \u521D\u97F3\u30DF\u30AF(Giga
+      First Night Remix)"
+    bgmClip: {fileID: 8300000, guid: 898f79b9eaebd8b488839f8bf4e9e5fb, type: 3}
+  - bgmName: "\u798F\u97F3(Gospel) / wotaku feat. SHIKI"
+    bgmClip: {fileID: 8300000, guid: 54b47d349e868424eb6ffbfbf6d91fe6, type: 3}
+  - bgmName: "\u3057\u3063\u304F\u304A\u3076\u306F\u3046\u3059\uFF01 \uFF0F\u93E1\u97F3\u30EA\u30F3\u30FB\u30EC\u30F3"
+    bgmClip: {fileID: 8300000, guid: 5007e9b68fa8b244385028db644aba48, type: 3}
+  - bgmName: "\u300E\u30A8\u30F3\u30F4\u30A3\u30FC\u30D9\u30A4\u30D3\u30FC\u300F\xD7\u300EKING\u300F"
+    bgmClip: {fileID: 8300000, guid: 1003c09d60d626a43abce9e0d3c057aa, type: 3}
+  - bgmName: "Misumi - \u30AA\u30EB\u30BF\u30FC\u30A8\u30B4 feat.\u521D\u97F3\u30DF\u30AF"
+    bgmClip: {fileID: 8300000, guid: 237e89d6cb1b0a045bda565bce1053f7, type: 3}
+  - bgmName: "\u30AB\u30E1\u30EC\u30AA\u30F3 / \u3059\u308A\u3043 feat.\u93E1\u97F3\u30EC\u30F3"
+    bgmClip: {fileID: 8300000, guid: a2631c4146b564444a81d84776848da5, type: 3}
+  - bgmName: "\u30ED\u30A6\u30EF\u30FC / Flower - Lower one's eyes"
+    bgmClip: {fileID: 8300000, guid: 4c39b846f83375246b08a9630cabe871, type: 3}
+  - bgmName: "\u7A32\u8449\u96F2\u300E\u30E9\u30B0\u30C8\u30EC\u30A4\u30F3\u300F
+      Vo. \u6B4C\u611B\u30E6\u30AD"
+    bgmClip: {fileID: 8300000, guid: c2e9b374228f01f46a6c5c0dfded764f, type: 3}

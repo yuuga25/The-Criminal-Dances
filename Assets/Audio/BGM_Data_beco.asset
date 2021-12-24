@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d47052e774a9844b03c44171c8ad50, type: 3}
+  m_Name: BGM_Data_beco
+  m_EditorClassIdentifier: 
+  sheet:
+  - bgmName: "\u96E8\u3068\u30CD\u30AA\u30F3"
+    bgmClip: {fileID: 8300000, guid: 163355da6e023964f817c03383a8a0aa, type: 3}
+  - bgmName: "\u96E8\u4E0A\u304C\u308A\u306E\u30D5\u30A1\u30F3\u30BF\u30B8\u30A2"
+    bgmClip: {fileID: 8300000, guid: 9c9a537950a87de48ad289360ba05cf4, type: 3}
+  - bgmName: "\u660E\u304F\u308B\u65E5\u306E\u5FD8\u5374"
+    bgmClip: {fileID: 8300000, guid: 9083a149a07d3194690dcc2ed15b9312, type: 3}
+  - bgmName: "\u96FB\u8133\u90FD\u5E02\u306B\u3066"
+    bgmClip: {fileID: 8300000, guid: 427ec28922800d74784c6a7b291c0f58, type: 3}
+  - bgmName: "\u5F37\u6B32\u306A\u5A18"
+    bgmClip: {fileID: 8300000, guid: 04e890f4e4490c9438ad938863fb87d0, type: 3}
+  - bgmName: "\u6674\u308C\u306E\u65E5\u306E\u79C1"
+    bgmClip: {fileID: 8300000, guid: bf48f7e7f5923264eb9b0e8ed8a74d9b, type: 3}
+  - bgmName: "\u5F77\u5FA8\u3046\u7363\u306E\u3088\u3046\u306B"
+    bgmClip: {fileID: 8300000, guid: 6a188993815d0044b8413586748f4f36, type: 3}
+  - bgmName: "\u771F\u591C\u4E2D\u306E\u30B7\u30E7\u30FC\u30BF\u30A4\u30E0"
+    bgmClip: {fileID: 8300000, guid: 26a455da741c9984cb4b873bcbecebf1, type: 3}
+  - bgmName: "\u88F8\u306E\u738B\u69D8"
+    bgmClip: {fileID: 8300000, guid: 23fb55b1c04437f46ae83f42ccd9d557, type: 3}
+  - bgmName: "\u30B9\u30E2\u30FC\u30AD\u30FC\u30FB\u30BF\u30A6\u30F3"
+    bgmClip: {fileID: 8300000, guid: 3352f292870d9674a8f0db8dc5512774, type: 3}
+  - bgmName: "\u30AA\u30AA\u30AB\u30DF\u5C11\u5E74"
+    bgmClip: {fileID: 8300000, guid: 4d0b5a5e5cbc65e419a39605d8af5e49, type: 3}
+  - bgmName: "\u305D\u308C\u3086\u3051\u30EF\u30F3\u30C0\u30FC\u30E9\u30F3\u30C9"
+    bgmClip: {fileID: 8300000, guid: 04edfb258cc6cd84f8bb7b864b96c3d0, type: 3}
+  - bgmName: "\u3082\u304F\u3082\u304F\u6E6F\u3051\u3080\u308A"
+    bgmClip: {fileID: 8300000, guid: b5c48e75242b6c14e93aa8ea2898b1e8, type: 3}
